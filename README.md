@@ -91,8 +91,7 @@ Wait a few minutes for Tomcat to unzip the app, then open the following URL in y
 http://localhost:8080/evolview
 ```
 
-![The familiar login page will appear!!]
-(https://raw.githubusercontent.com/evolgeniusteam/evolivew-local-deploy/master/images/login.png)
+The familiar login page will appear!!
 
 For Linux users, the 'webapps/' folder can often be found at : /var/lib/tomcat7/webappps/:
 ```
