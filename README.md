@@ -48,7 +48,8 @@ evolview.war
 
 ##### 3.2 connect to your MySQL server
 
-On Windows, I recommend that users use MySQL Workbench to connect to MySQL server.
+On Windows, I recommend MySQL Workbench for MySQL connection.
+
 On Mac and Linux, enter the following command in Terminal to connect to MySQL:
 ```
 mysql -u root -p
