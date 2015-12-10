@@ -2,9 +2,9 @@
 
 EvolView is an easy-to-use online tool for displaying, managing and customizing phylogenetic trees.
 
-Here is a very short tutorial It is very easy and straightforward to install Evolview to your local computer.
+Here is a very short tutorial for deploying Evolview to your local computer.
 
-First, you may have to install the following softwares onto your computer.
+First, you may have to install the following softwares (all are free and cross-platform):
  * Tomcat 7+
  * MySQL 5.7.9+
  * JAVA 1.7+ (if your system does not have one)
