@@ -11,19 +11,6 @@ First, you may have to install the following softwares (all are free and cross-p
 
 #### 1. install Tomcat
 
-<table border="0">
-    <tr>
-        <td>Foo</td>
-		<td>abc</td>
-    </tr>
-	<tr>
-        <td>Foo</td>
-		<td>abc</td>
-    </tr>
-</table>
-
-
-
 For Mac users please see [instructions here](https://wolfpaulus.com/journal/mac/tomcat8/).
 
 For Windows users, see [here](https://www.mulesoft.com/tcat/tomcat-windows)
@@ -112,6 +99,11 @@ For Linux users, the 'webapps/' folder can often be found at : /var/lib/tomcat7/
 ## if you have other version of tomcat installed.
 cp /path/to/evolview.ar /var/lib/tomcat7/webapps/
 ```
+
+<pre>
+a	b
+c	d
+</pre>
 
 Enjoy!
 
