@@ -11,12 +11,6 @@ First, you may have to install the following softwares (all are free and cross-p
 
 #### 1. install Tomcat
 
-<pre><code>
-a	b
-CD	CD
-</code>
-</pre>
-
 For Mac users please see [instructions here](https://wolfpaulus.com/journal/mac/tomcat8/).
 
 For Windows users, see [here](https://www.mulesoft.com/tcat/tomcat-windows)
