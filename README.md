@@ -11,10 +11,12 @@ First, you may have to install the following softwares (all are free and cross-p
 
 #### 1. install Tomcat
 
+<code>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
+</code>
 
 For Mac users please see [instructions here](https://wolfpaulus.com/journal/mac/tomcat8/).
 
