@@ -100,11 +100,6 @@ For Linux users, the 'webapps/' folder can often be found at : /var/lib/tomcat7/
 cp /path/to/evolview.ar /var/lib/tomcat7/webapps/
 ```
 
-<pre>
-a	b
-c	d
-</pre>
-
 Enjoy!
 
 *Note:*
