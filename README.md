@@ -7,9 +7,10 @@ Here is a very short tutorial for deploying Evolview to your local computer.
 First, you may have to install the following softwares (all are free and cross-platform):
  * Tomcat 7+
  * MySQL 5.7.9+
- * JAVA 1.7+ (if your system does not have one)
+ * JAVA 1.8+
 
 #### 1. install Tomcat
+
 
 For Mac users please see [instructions here](https://wolfpaulus.com/journal/mac/tomcat8/).
 
