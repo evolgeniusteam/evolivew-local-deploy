@@ -104,6 +104,6 @@ cp /path/to/evolview.ar /var/lib/tomcat7/webapps/
 Enjoy!
 
 *Note:*
- * please go check our ["what's new" page](http://evdocs.medgenius.info/#WhatsNew) regularly for new features and update your version of Evolview accordingly
+ * please go check our ["what's new" page](https://evolview.codeplex.com/wikipage?title=WhatsNew&referringTitle=Documentation) regularly for new features and update your version of Evolview accordingly
  * please contact us (evolgenius.team@gmail.com) to report problems and send us your comments, corrections, suggestions and feature requests
  * attach your tree and datasets to your email if necessary
