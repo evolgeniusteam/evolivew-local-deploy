@@ -22,12 +22,13 @@ for Linux users, depending on your distribution, see the following links:
 * for [Redhat/CentOS](https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-7-on-centos-7-via-yum)
 
 At the end, if the installation is successful, open the following link in a browser:
-````
+```
 ## -- if access from the computer where Tomcat is installed:
 http://127.0.0.1:8080
 ## -- or access the server from another computer
 http://server_IP_address:8080
 ```
+
 and you will see a page that says "It works!", in addition to other information.
 
 #### 2. install MySQL
@@ -104,6 +105,6 @@ cp /path/to/evolview.ar /var/lib/tomcat7/webapps/
 Enjoy!
 
 *Note:*
- * please go check our ["what's new" page](https://evolview.codeplex.com/wikipage?title=WhatsNew&referringTitle=Documentation) regularly for new features and update your version of Evolview accordingly
+ * please go check our ["what's new" page](https://github.com/evolgeniusteam/EvolviewDocumentation/blob/master/whatisnew/WhatsNew.md) regularly for new features and update your version of Evolview accordingly
  * please contact us (evolgenius.team@gmail.com) to report problems and send us your comments, corrections, suggestions and feature requests
  * attach your tree and datasets to your email if necessary
