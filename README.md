@@ -45,7 +45,8 @@ and you will see a page that says "It works!", in addition to other information.
 eviewer_ver1.schema.sql
 ```
 
-then download the compiled and packed codes, the 'evolview.war' file from here:
+then download the compiled and packed codes, 
+the 'evolview.war' file from here:
 https://pan.baidu.com/s/17ECfLEdO-eRwcAA-VCovOg
 
 
