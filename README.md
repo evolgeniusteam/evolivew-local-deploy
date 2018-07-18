@@ -40,13 +40,14 @@ and you will see a page that says "It works!", in addition to other information.
 * for [Windows users](https://dev.mysql.com/tech-resources/articles/mysql-installer-for-windows.html)
 
 #### 3. download and deploy Evolview
-##### 3.1 download two files from the 'downloads/' folder:
+##### 3.1 download the table schema file from the 'downloads/' folder:
 ```
-## 1. table schema file
 eviewer_ver1.schema.sql
-## 2. compiled and packed codes
-evolview.war
 ```
+
+then download the compiled and packed codes, the 'evolview.war' file from here:
+https://pan.baidu.com/s/17ECfLEdO-eRwcAA-VCovOg
+
 
 ##### 3.2 connect to your MySQL server
 
