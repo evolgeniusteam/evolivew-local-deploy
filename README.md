@@ -46,8 +46,13 @@ eviewer_ver1.schema.sql
 ```
 
 then download the compiled and packed codes, 
-the 'evolview.war' file from here:
+the 'evolview.war' file from:
+
+for people in Mainland China:
 https://pan.baidu.com/s/17ECfLEdO-eRwcAA-VCovOg
+
+for people elsewhere:
+https://www.dropbox.com/s/aiqs090n8m9292l/evolview.war?dl=0
 
 
 ##### 3.2 connect to your MySQL server
