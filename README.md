@@ -43,15 +43,15 @@ and you will see a page that says "It works!", in addition to other information.
 ##### 3.1 download the following two files from the 'downloads/' folder:
 ```
 eviewer_ver1.schema.sql
-evolview.war
+evolview.war (version 3)
 ```
 
 Alternatively, you can download the evolview.war file from the following online file-sharing sites:
-## For latest version of Evolviw(version 3), use the following links:
-## for people else where:
+#### For latest version of Evolviw(version 3), use the following links:
+for people else where:
 https://www.dropbox.com/s/ddoptc6amyox755/evolview.war?dl=0
 
-## For Older versions of Evolview(version 2),use the following link:
+#### For Older versions of Evolview(version 2),use the following link:
 for people in Mainland China:
 https://pan.baidu.com/s/17ECfLEdO-eRwcAA-VCovOg
 
